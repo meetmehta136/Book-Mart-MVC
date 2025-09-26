@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Scanner Page";
+}
+
+<div class="container text-center mt-5">
+    <h2>Scan and Connect</h2>
+
+    <!-- Scanner Image with animation -->
+    <img src="~/img/scanner.jpeg" alt="Scanner QR"
+         class="img-fluid mt-3 mb-4 scanner-img"
+         style="max-width: 300px;" />
+    <br />
+
+    <!-- Redirect Button -->
+    <a href="https://t.me/Bookmart2006_bot" target="_blank" class="btn btn-primary btn-lg">
+        Open Telegram Bot
+    </a>
+</div>
+
+<style>
+    /* Floating animation for image */
+    .scanner-img {
+        animation: float 3s ease-in-out ;
+    }
+
+    @@keyframes float {
+        0%
+
+    {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-15px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+
+    }
+</style>
