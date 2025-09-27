@@ -210,7 +210,7 @@ Report issues or suggest features via GitHub Issues. Follow C# conventions, add 
 
 **Prit Pastagiya** – Served as Project Lead, overseeing the overall development and coordination of the project. Led backend development, and implemented the admin panel and dashboard, ensuring smooth management and monitoring of application data and user activities.
 
-**Hardi Patel** – Responsible for data seeding, ensuring that the application had meaningful and realistic initial data for testing and demonstration purposes. Additionally contributed to the UI/UX design, creating an intuitive and visually appealing interface that enhances user experience.
+**Patel Hardi** – Responsible for data seeding, ensuring that the application had meaningful and realistic initial data for testing and demonstration purposes. Additionally contributed to the UI/UX design, creating an intuitive and visually appealing interface that enhances user experience.
 
 
 ## License
