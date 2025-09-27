@@ -207,7 +207,9 @@ Report issues or suggest features via GitHub Issues. Follow C# conventions, add 
 ## Contributors
 
 **Meet Mehta** – Developed the user panel, providing a smooth and functional interface for end-users to interact with the application. Also implemented the AI chatbot, enabling intelligent and responsive user interactions within the system.
+
 **Prit Pastagiya** – Served as Project Lead, overseeing the overall development and coordination of the project. Led backend development, and implemented the admin panel and dashboard, ensuring smooth management and monitoring of application data and user activities.
+
 **Hardi Patel** – Responsible for data seeding, ensuring that the application had meaningful and realistic initial data for testing and demonstration purposes. Additionally contributed to the UI/UX design, creating an intuitive and visually appealing interface that enhances user experience.
 
 
