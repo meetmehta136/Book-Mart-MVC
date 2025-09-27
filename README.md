@@ -191,15 +191,8 @@ BookMartMVC/
 - **HTTPS**: Enforce in production.
 - **Scaling**: Use Redis for distributed session if multi-instance.
 
-For Docker: Create Dockerfile with multi-stage build, expose port 80.
 
-## Screenshots
 
-(Descriptions, as no images generated)
-- **Homepage**: Book grid with search bar, genre filters, "Add to Cart" buttons.
-- **Cart/Checkout**: Item list, total, shipping form.
-- **Admin Dashboard**: Order table, charts for top sellers.
-- **Chat**: Conversation interface with bot responses (e.g., "Your cart has 2 books totaling $25").
 
 ## Contributing
 
@@ -214,7 +207,7 @@ Report issues or suggest features via GitHub Issues. Follow C# conventions, add 
 ## Contributors
 
 **Meet Mehta** – Developed the user panel, providing a smooth and functional interface for end-users to interact with the application. Also implemented the AI chatbot, enabling intelligent and responsive user interactions within the system.
-- **Prit Pastagiya** – Served as Project Lead, overseeing the overall development and coordination of the project. Led backend development, and implemented the admin panel and dashboard, ensuring smooth management and monitoring of application data and user activities.
+**Prit Pastagiya** – Served as Project Lead, overseeing the overall development and coordination of the project. Led backend development, and implemented the admin panel and dashboard, ensuring smooth management and monitoring of application data and user activities.
 **Hardi Patel** – Responsible for data seeding, ensuring that the application had meaningful and realistic initial data for testing and demonstration purposes. Additionally contributed to the UI/UX design, creating an intuitive and visually appealing interface that enhances user experience.
 
 
@@ -229,7 +222,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google Gemini API
 - Bootstrap for UI
 
-For support, contact meetmehta136@gmail.com or open an issue.
 
 ---
 
