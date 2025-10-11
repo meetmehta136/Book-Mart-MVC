@@ -46,7 +46,7 @@ Key highlights:
 - **AI Integration**: Google Gemini API (Generative Language) for chat bot
 - **Other**: Newtonsoft.Json for API calls, AutoMapper (if extended), Session Middleware
 
-Dependencies (from BookMart.csproj):
+Dependencies(from BookMart.csproj):
 - Microsoft.AspNetCore.Identity.EntityFrameworkCore (9.0.9)
 - Microsoft.EntityFrameworkCore.SqlServer (9.0.9)
 - Microsoft.EntityFrameworkCore.Tools (9.0.9)
